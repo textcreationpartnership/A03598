@@ -35,13 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-TVVO
-SERMONS
-VPON PART OF
-S. JVDES EPISTLE,
-BY
-RICHARD HOOKER sometimes Fellow of
-Corpus Christi Col
+
 1. TO THE WORSHIPFVLL Mr
 GEORGE SVMMASTER, Principall of
 Broad-Gates Hall in Oxford, HENRY
